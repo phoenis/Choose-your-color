@@ -4,7 +4,7 @@ var myB;
 var state = true;
 
 function setup() {
-    createCanvas(windowWidth,windowHeight);
+    createCanvas(800,600);
     colorMode(HSB, width);	  	 
 }
 
